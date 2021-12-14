@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I like to buy domain names and build useless webpages for it. For example:
+
+- 🌽 https://platte.land
+- 🤷‍♂️ https://itdepends.marketing
+- ♾ https://tachtien.nl
+- 🥃 https://jenever.amsterdam
+
 <!--
 **simonvreeman/simonvreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
