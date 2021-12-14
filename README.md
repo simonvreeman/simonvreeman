@@ -4,8 +4,11 @@ I like to buy domain names and build useless webpages for it. For example:
 
 - 🌽 https://platte.land
 - 🤷‍♂️ https://itdepends.marketing
-- ♾ https://tachtien.nl
+- 📖 https://tachtien.nl
 - 🥃 https://jenever.amsterdam
+
+- 📘 [Meditations by Marcus Aurelius. Translations by Gregory Hays.](https://vreeman.com/meditations/)
+- 📕 [Discourses of Epictetus. Translations by George Long.](https://vreeman.com/discourses/)
 
 <!--
 **simonvreeman/simonvreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
