@@ -4,6 +4,7 @@ I am [Simon Vreeman](https://vreeman.com), and I like to buy domain names and bu
 
 - 📖 [De definitie en herkomst van het woord Tachtien](https://tachtien.nl)
 - 🥃 [Jenever in Amsterdam](https://jenever.amsterdam)
+- 🇲🇽 [Mezcal in Amsterdam](https://mezcal.amsterdam)
 - 📘 [Meditations by Marcus Aurelius. Translations by Gregory Hays.](https://vreeman.com/meditations/)
 - 📕 [Discourses of Epictetus. Translations by George Long.](https://vreeman.com/discourses/)
 
