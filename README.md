@@ -3,10 +3,10 @@
 I am [Simon Vreeman](https://vreeman.com), and I like to buy domain names and build useless webpages for it. For example:
 
 - 📖 [De definitie en herkomst van het woord Tachtien](https://tachtien.nl)
-- 🥃 [Jenever in Amsterdam](https://jenever.amsterdam)
-- 🇲🇽 [Mezcal in Amsterdam](https://mezcal.amsterdam)
+- 🥃 [Jenever in Amsterdam](https://418.ai/jenever)
+- 🇲🇽 [Mezcal in Amsterdam](https://418.ai/mezcal)
 - 📘 [Meditations by Marcus Aurelius. Translations by Gregory Hays.](https://vreeman.com/meditations/)
-- 📕 [Discourses of Epictetus. Translations by George Long.](https://vreeman.com/discourses/)
+- 📕 [Arrian’s Discourses of Epictetus. Including the Enchiridion and Fragments. Translated and edited by Robert Dobbin.](https://vreeman.com/discourses/)
 
 <!--
 **simonvreeman/simonvreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
