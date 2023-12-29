@@ -6,7 +6,7 @@ I am [Simon Vreeman](https://vreeman.com), and I like to buy domain names and bu
 - 🥃 [Jenever in Amsterdam](https://418.ai/jenever)
 - 🇲🇽 [Mezcal in Amsterdam](https://418.ai/mezcal)
 - 📘 [Meditations by Marcus Aurelius. Translations by Gregory Hays.](https://vreeman.com/meditations/)
-- 📕 [Arrian’s Discourses of Epictetus. Including the Enchiridion and Fragments. Translated and edited by Robert Dobbin.](https://vreeman.com/discourses/)
+- 📕 [Arrian’s Discourses of Epictetus.](https://vreeman.com/discourses/) Including the [Enchiridion](https://vreeman.com/discourses/enchiridion) and [Fragments](https://vreeman.com/discourses/fragments). Translated and edited by Robert Dobbin.
 
 <!--
 **simonvreeman/simonvreeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
